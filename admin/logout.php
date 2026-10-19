@@ -1,0 +1,1 @@
+<?php require '../config.php';unset($_SESSION['admin']);session_regenerate_id(true);header('Location: ../admin_login.php');exit;

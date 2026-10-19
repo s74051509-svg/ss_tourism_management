@@ -1,0 +1,1 @@
+</main><footer class="site-footer"><div class="footer-inner"><a class="brand footer-brand" href="index.php"><span class="brand-mark">S<span>S</span></span><span class="brand-name">SS <b>TOURISM</b><small>MANAGEMENT</small></span></a><p>Make room for wonder. Travel with confidence.</p><span>© <?=date('Y')?> SS Tourism Management</span></div></footer></body></html>

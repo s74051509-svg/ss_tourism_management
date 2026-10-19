@@ -1,0 +1,1 @@
+Replace this file's role by placing your own QR image here named payment-qr.png. Do not use a sample QR for real payments.

@@ -1,0 +1,1 @@
+</main><footer class="site-footer"><div class="footer-inner"><span>SS Tourism Management · Admin Console</span><span>Manage responsibly. Verify payments before approval.</span></div></footer></body></html>
